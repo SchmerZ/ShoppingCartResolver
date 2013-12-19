@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartResolverDemo", "ShoppingCartResolverDemo.csproj", "{DFC765D9-6B42-4803-A509-70538FE23DD3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartResolverDemo", "ShoppingCartResolverDemo\ShoppingCartResolverDemo.csproj", "{DFC765D9-6B42-4803-A509-70538FE23DD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Core", "..\ShoppingCart.Core\ShoppingCart.Core.csproj", "{91138DA3-53F2-46AC-9AAA-868421D8A3C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Core", "ShoppingCart.Core\ShoppingCart.Core.csproj", "{91138DA3-53F2-46AC-9AAA-868421D8A3C7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{758D33C8-9E29-4EFC-968F-9D063602D532}"
 EndProject

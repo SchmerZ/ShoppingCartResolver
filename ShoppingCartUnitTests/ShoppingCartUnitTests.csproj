@@ -55,8 +55,8 @@
     <Compile Include="ProductUnitTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ShoppingCart.Core\ShoppingCart.Core.csproj">
-      <Project>{91138DA3-53F2-46AC-9AAA-868421D8A3C7}</Project>
+    <ProjectReference Include="..\ShoppingCart.Core\ShoppingCart.Core.csproj">
+      <Project>{91138da3-53f2-46ac-9aaa-868421d8a3c7}</Project>
       <Name>ShoppingCart.Core</Name>
     </ProjectReference>
   </ItemGroup>
